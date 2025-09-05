@@ -1,4 +1,4 @@
-![logo](https://github.com/IkramHub1/python-scripts-collection/blob/main/Python%20developer%20with%20api%E2%80%99s.png
+![logo](https://github.com/IkramHub1/python-scripts-collection/blob/main/Python%20developer%20with%20api%E2%80%99s.png)
 <h1 align="center">Hi 👋, I'm Ikram Akbar</h1>
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 <img align="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzzOlWzYZeT9-HpLl7tQb_ZrPikOeKOyYRtXli10FgJ_yxSe_77U1U-_ork_tixsMVSw&usqp=CAU">
